@@ -1,2 +1,2 @@
 # vagrant-template
-Template Vagrantfile that readers can use with the book's lab examples
+Template Vagrantfile and provisioning scripts that readers can use as a foundation to build the book's example environments.
